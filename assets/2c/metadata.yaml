@@ -1,0 +1,8 @@
+bpm: 80
+chord_progression: Am-Gmaj7-Fmaj7-G-Cmaj7-Dm7-Am-A#maj7-E+-Am
+generate_samples: true
+genre: cinematic
+key: aminor
+num_measures: 8
+rhythm: standard
+time_signature: 4/4

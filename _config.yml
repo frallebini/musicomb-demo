@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: MusiComb
+description: a Sample-based Approach to Music Generation Through Constraints
+github:
+  repository_url: http://github.com/frallebini/musicomb
